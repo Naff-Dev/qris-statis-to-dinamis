@@ -1,0 +1,24 @@
+{
+  "name": "qris-statis-to-dinamis",
+  "version": "1.0.0",
+  "description": "qr statis to dinamis bisa membuat qris menerima pembayaran sesuai nominal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hatakee14"
+  },
+  "keywords": [
+    "qris",
+    "qris-statis",
+    "qris-dinamis"
+  ],
+  "author": "Naff-Dev",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^1.6.0",
+    "qrcode": "^1.5.4"
+  }
+}
