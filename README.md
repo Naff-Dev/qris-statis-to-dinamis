@@ -7,7 +7,7 @@
 Gunakan npm untuk menginstal modul ini:
 
 ```sh
-npm install qris-dinamis
+npm install qris-statis-to-dinamis
 ```
 
 ## 🚀 Penggunaan
@@ -15,7 +15,7 @@ npm install qris-dinamis
 ### Import Modul
 
 ```javascript
-const { qrisDinamis } = require('qris-dinamis');
+const { qrisDinamis } = require('qris-statis-to-dinamis');
 ```
 
 ### 🔹 Generate QRIS Dinamis
